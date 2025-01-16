@@ -1,4 +1,4 @@
-👋 Hi, I’m Muhannad Alrashed!
+# 👋 Hi, I’m Muhannad Alrashed!
 🌱 I’m a Computer Science graduate from the Syrian Virtual University (SVU).
 💻 I’m passionate about software development and always open to exciting collaboration opportunities.
 🎵 Outside of tech, I enjoy playing music and staying active at the gym.
